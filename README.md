@@ -13,10 +13,6 @@ Dealing with 1's and 0's.
 * 🤝  I'm open to collaborating on Realistic projects | NFT's
 * ⚡  Let's make the difference.
 
-<a href="https://www.twitter.com/k8pai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/k8pai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
