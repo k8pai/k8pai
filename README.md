@@ -8,8 +8,8 @@ Dealing with 1's and 0's.
 
 * 🌍  I'm based in Bengaluru, India.
 * ✉️  You can contact me at [thek8pai@gmail.com](mailto:thek8pai@gmail.com)
-* 🚀  completed projects 
-* 🚀  I'm currently working on [Spiritwolf](http://spiritwolf.io) , [Kiba](http://kiba.io) , [Cozi cats](http://cozicatz.io), [Dickies](http://dickies.io)
+* 🚀  completed projects [Spiritwolf](http://spiritwolf.io)
+* 🚀  I'm currently working on [Kiba](http://kiba.io) , [Cozi cats](http://cozicatz.io), [Dickies](http://dickies.io)
 * 🧠  I'm learning Full stack development | Blockchain development | Bot development.
 * 🤝  I'm open to collaborating on Realistic projects | NFT's
 * ⚡  Let's make the difference.
