@@ -4,16 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end developer | Student
 -----------------------------
 
-Dealing with 1's and 0's.
-
-* 🌍  I'm based in Bengaluru, India.
-* ✉️  You can contact me at [thek8pai@gmail.com](mailto:thek8pai@gmail.com)
-* 🚀  completed projects [Spiritwolf](http://spiritwolf.io)
-* 🚀  I'm currently working on [Kiba](http://kiba.io) , [Cozi cats](http://cozicatz.io), [Dickies](http://dickies.io)
-* 🧠  I'm learning Full stack development | Blockchain development | Bot development.
-* 🤝  I'm open to collaborating on Realistic projects | NFT's
-* ⚡  Let's make the difference.
-
+#### * 🌍 21 YO | based on Bangalore, India.
+#### * ✉️ Reach me out at [thek8pai@gmail.com](mailto:thek8pai@gmail.com)
+#### * 🚀 Projects i've built - [Spiritwolf](http://spiritwolf.vercel.app), [todolist (next js)](https://todolist-k8pai.vercel.app), [portfolio](https://k8pai.vercel.app)
+#### * 🎈 I love to read books, code, and Build meaningful interactive web apps at my free time.
+#### * 🎓 Pursuing Fullstack development at [UpGrad campus](https://upgrad.com).
+#### * 🎓 Pursuing Blockchain development at [codedamn](https://codedamn.com).
 ### Skills
 
 <p align="left">
