@@ -19,8 +19,10 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/mongodb/mongodb.png"></code>
+<code><img height="20" alt="framer-motion" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/framer-motion/framer-motion.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/express/express.png"></code>
+<code><img height="20" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/google-cloud/google-cloud.png"></code>
 
 
 [![k8pai's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=k8pai&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/k8pai/todolist#gh-dark-mode-only)
