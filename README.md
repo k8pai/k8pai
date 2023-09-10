@@ -30,15 +30,17 @@ I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 an
 
 ### 🎊 Few of my awesome projects:
 
-1. **Discussion Forum (Java)**: A Java-based discussion forum that empowers users to share their thoughts through upvoting and comments, fostering meaningful interactions. [(Check it out)](https://github.com/k8pai/discussion-forum)
+1. **Tailwind-Inputs - NPM Package**: This NPM package offers a range of reusable, customizable components designed on the solid foundation of Tailwind CSS. [(Checkout the Documentation)](https://tailwind-inputs.vercel.app)
 
-2. **PinIt - Chrome Extension**: a user-friendly Chrome and Brave browser extension enabling effortless link saving and access, ensuring you never lose valuable links again. [(Github Repo)](https://github.com/k8pai/pinit)
-
+2. **nextauth-cli**: A CLI tool that helps you initialize **next-auth** folder structure for **Next.js** projects. [(Github Repo)](https://github.com/k8pai/nextauth-cli)
+ 
 3. **Linkwrap - Next.js App**: This Next.js application lets users effortlessly save, organize, and even scan links using a QR code for easy portability across devices. [(Visit Linkwrap)](https://linkwrap.k8pai.dev)
+   
+4. **PinIt - Chrome Extension**: a user-friendly Chrome and Brave browser extension enabling effortless link saving and access, ensuring you never lose valuable links again. [(Github Repo)](https://github.com/k8pai/pinit)
 
-4. **Tailwind-Inputs - NPM Package**: This NPM package offers a range of reusable, customizable components designed on the solid foundation of Tailwind CSS. [(Checkout the Documentation)](https://tailwind-inputs.vercel.app)
+5. **Discussion Forum (Java)**: A Java-based discussion forum that empowers users to share their thoughts through upvoting and comments, fostering meaningful interactions. [(Check it out)](https://github.com/k8pai/discussion-forum)
 
-And some onging projects to be completed...
+And some onging projects to be completed... [view more](https://github.com/k8pai?tab=repositories)
 
 ### 📫 How to reach me?
 - [linkedin](https://linkedin.com/in/k8pai)
