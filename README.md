@@ -32,7 +32,7 @@ I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 an
 
 1. **Tailwind-Inputs - NPM Package**: This NPM package offers a range of reusable, customizable components designed on the solid foundation of Tailwind CSS. [(Checkout the Documentation)](https://tailwind-inputs.vercel.app)
 
-2. **nextauth-cli**: A CLI tool that helps you initialize **next-auth** folder structure for **Next.js** projects. [(Github Repo)](https://github.com/k8pai/nextauth-cli)
+2. **nextauth-cli**: A CLI tool designed to streamline the initialization of **next-auth** configurations within **Next.js** projects and simplifies the process by generating base template files tailored to user-defined options. [(Github Repo)](https://github.com/k8pai/nextauth-cli)
  
 3. **Linkwrap - Next.js App**: This Next.js application lets users effortlessly save, organize, and even scan links using a QR code for easy portability across devices. [(Visit Linkwrap)](https://linkwrap.k8pai.dev)
    
