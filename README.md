@@ -48,7 +48,7 @@ And some onging projects to be completed... [view more](https://github.com/k8pai
 <a href="https://twitter.com/k8pai">    
   <img align="right" alt="k8pai | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
-<a href="https://discord.com/user/898949804024012850">
+<a href="https://discord.com/users/898949804024012850">
   <img align="right" alt="k8pai | Discord" width="21px" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" />
 </a>
 <!-- <a href="https://k8pai.dev">
