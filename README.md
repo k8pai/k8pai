@@ -1,4 +1,4 @@
-<code>k8pai.readme</code>
+<code>k8pai.readme</code> <code>[portfolio](https://k8pai.dev)</code>
 
 # Hello! 👋👋
 
