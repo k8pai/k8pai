@@ -30,15 +30,18 @@ I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 an
 
 ### 🎊 Few of my awesome projects:
 
-1. **Tailwind-Inputs - NPM Package**: This NPM package offers a range of reusable, customizable components designed on the solid foundation of Tailwind CSS. [(Checkout the Documentation)](https://tailwind-inputs.vercel.app)
 
-2. **nextauth-cli**: A CLI tool designed to streamline the initialization of **next-auth** configurations within **Next.js** projects and simplifies the process by generating base template files tailored to user-defined options. [(Github Repo)](https://github.com/k8pai/nextauth-cli)
+1. **Book-reselling - Next.js App**: This Next.js application lets users effortlessly buy and sell books with features like selling, wishlisting, email sending for conformations etc. [(visit live demo)](https://book-reselling.vercel.app)
+
+2. **Tailwind-Inputs - NPM Package**: This NPM package offers a range of reusable, customizable components designed on the solid foundation of Tailwind CSS. [(Checkout the Documentation)](https://tailwind-inputs.vercel.app)
+
+3. **nextauth-cli**: A CLI tool designed to streamline the initialization of **next-auth** configurations within **Next.js** projects and simplifies the process by generating base template files tailored to user-defined options. [(Github Repo)](https://github.com/k8pai/nextauth-cli)
  
-3. **Linkwrap - Next.js App**: This Next.js application lets users effortlessly save, organize, and even scan links using a QR code for easy portability across devices. [(Visit Linkwrap)](https://linkwrap.k8pai.dev)
+4. **Linkwrap - Next.js App**: This Next.js application lets users effortlessly save, organize, and even scan links using a QR code for easy portability across devices. [(Visit Linkwrap)](https://linkwrap.k8pai.dev)
    
-4. **PinIt - Chrome Extension**: a user-friendly Chrome and Brave browser extension enabling effortless link saving and access, ensuring you never lose valuable links again. [(Github Repo)](https://github.com/k8pai/pinit)
+5. **PinIt - Chrome Extension**: a user-friendly Chrome and Brave browser extension enabling effortless link saving and access, ensuring you never lose valuable links again. [(Github Repo)](https://github.com/k8pai/pinit)
 
-5. **Discussion Forum (Java)**: A Java-based discussion forum that empowers users to share their thoughts through upvoting and comments, fostering meaningful interactions. [(Check it out)](https://github.com/k8pai/discussion-forum)
+6. **Discussion Forum (Java)**: A Java-based discussion forum that empowers users to share their thoughts through upvoting and comments, fostering meaningful interactions. [(Check it out)](https://github.com/k8pai/discussion-forum)
 
 And some onging projects to be completed... [view more](https://github.com/k8pai?tab=repositories)
 
