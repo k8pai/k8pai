@@ -1,18 +1,8 @@
-<code>k8pai.readme</code> <code>[portfolio](https://k8pai.dev)</code>
+<code>k8pai.readme</code> | <code>[portfolio](https://k8pai.dev)</code>
 
-# Hello! 👋👋
-
-I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. Someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. Also a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+Frontend developer focused on fluidity and animation. Exploring React Native to create mobile-first experiences.
 
 ### 🌟 Technologies I've worked with:
-
-- React
-- Java
-- Node.js
-- Next.js
-- Prisma
-- Framer
-- MongoDB
 
 <p align="left">
 <code><img height="40" alt="Java" title="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
@@ -26,8 +16,11 @@ I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 an
 <code><img height="40" alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/mysql/mysql.png"></code>
 <code><img height="40" alt="Tailwindcss" title="Tailwindcss" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/tailwind/tailwind.png"></code>
 <code><img height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" alt="Framer Motion" title="Framer Motion" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/framer-motion/framer-motion.png"></code>
+<code><img height="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png"></code>
+<code><img height="40" alt="Github" title="Github" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png"></code>
 
-
+<!-- 
 ### 🎊 Few of my awesome projects:
 
 
@@ -44,9 +37,11 @@ I am _Sudarsan K Pai_. I'm highly skilled with **JavaScript/TypeScript** 💻 an
 6. **Discussion Forum (Java)**: A Java-based discussion forum that empowers users to share their thoughts through upvoting and comments, fostering meaningful interactions. [(Check it out)](https://github.com/k8pai/discussion-forum)
 
 And some onging projects to be completed... [view more](https://github.com/k8pai?tab=repositories)
+-->
 
 ### 📫 How to reach me?
 - [linkedin](https://linkedin.com/in/k8pai)
+- [mail](mailto:thek8pai@gmail.com)
 
 <a href="https://twitter.com/k8pai">    
   <img align="right" alt="k8pai | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
