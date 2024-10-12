@@ -43,7 +43,7 @@ And some onging projects to be completed... [view more](https://github.com/k8pai
 - [linkedin](https://linkedin.com/in/k8pai)
 - [mail](mailto:thek8pai@gmail.com)
 - [twitter](https://x.com/k8pai)
-- [what's app](https://wa.me/+917994648190)
+<!-- - [what's app](https://wa.me/+917994648190) -->
 
 <a href="https://twitter.com/k8pai">    
   <img align="right" alt="k8pai | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
