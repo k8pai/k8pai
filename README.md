@@ -1,4 +1,4 @@
-<code>k8pai.readme</code> | <code>[portfolio](https://k8pai.dev)</code>
+<code>[portfolio](https://k8pai.dev)</code> | <code>[currently working on](https://linkwrap.k8pai.dev)</code>
 
 Frontend developer focused on fluidity and animation. Exploring React Native to create mobile-first experiences.
 
