@@ -1,4 +1,4 @@
-<code>[portfolio](https://k8pai.dev)</code> | <code>[currently working on](https://calendar.k8pai.dev)</code> | <code>[and](https://github.com/k8pai/discord_bot)</code>
+<code>[portfolio](https://k8pai.dev)</code> | <code>[calendar](https://calendar.k8pai.dev)</code> 
 
 Frontend developer focused on fluidity and animation. Exploring React Native to create mobile-first experiences.
 
