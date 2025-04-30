@@ -1,4 +1,4 @@
-<code>[portfolio](https://k8pai.dev)</code> | <code>[calendar](https://calendar.k8pai.dev)</code> 
+<code>[portfolio](https://k8pai.dev)</code> | <code>[calendar](https://calendar.k8pai.dev)</code> | <code>[components](https://www.npmjs.com/package/@k8pai/components)</code>
 
 Frontend developer focused on fluidity and animation. Exploring React Native to create mobile-first experiences.
 
